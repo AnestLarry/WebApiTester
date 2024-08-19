@@ -1,5 +1,5 @@
 {
-  "name": "apitester",
+  "name": "webapitester",
   "version": "0.0.1",
   "description": "web api test engine",
   "main": "dist/index.js",

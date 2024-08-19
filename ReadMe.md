@@ -38,7 +38,7 @@ You can get Node.js from [here](https://nodejs.org/en/).
 Then, install the package with the following command:
 
 ```bash
-npm install https://github.com/AnestLarry/web-api-tester
+npm install https://github.com/AnestLarry/WebApiTester
 ```
 
 ## Contributing
